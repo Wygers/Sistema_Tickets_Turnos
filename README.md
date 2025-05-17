@@ -16,4 +16,9 @@ Generación de reportes de atención diaria y por módulo.
 
 Configuración centralizada de parámetros de operación.
 
+🔍 Objetivos del Modelado: 
+Realizar una transición progresiva desde el análisis funcional hasta el diseño físico del sistema.
 
+Aplicar patrones de diseño en la etapa lógica para garantizar mantenibilidad, modularidad y escalabilidad.
+
+Desarrollar pensamiento arquitectónico a través de la separación de capas, responsabilidades y nodos físicos.
