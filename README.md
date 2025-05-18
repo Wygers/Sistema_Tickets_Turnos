@@ -1,4 +1,4 @@
-# Sistema de Solicitud de Ticket de Turnos – Carnicería
+# Sistema de Solicitud de Ticket de Turnos – (Tunomático)
 
 ✅ DESCRIPCIÓN GENERAL DEL SISTEMA DESARROLLADO:
 
